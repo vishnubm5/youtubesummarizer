@@ -2,7 +2,7 @@
 
 This is a Streamlit-based web app that generates **detailed summaries** from any YouTube video's transcript using **Gemini Pro (Google Generative AI)**.
 
-It extracts the transcript of the video and feeds it to Gemini to create a concise summary in bullet points — great for quick learning, revision, or note-taking!
+It extracts the transcript of the video and feeds it to Gemini to create a concise summary in bullet points — great for quick learning, revision, or note-taking!!
 
 ---
 
