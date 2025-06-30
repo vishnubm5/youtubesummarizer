@@ -29,28 +29,11 @@ It extracts the transcript of the video and feeds it to Gemini to create a conci
 
 ## 🧪 Setup Instructions
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/yourusername/youtube-summarizer.git
 cd youtube-summarizer
 
-2. Install dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
 
-3. Create .env file
-Add your Gemini API key:
-
-ini
-Copy
-Edit
-GOOGLE_API_KEY=your_google_api_key_here
-4. Run the Streamlit app
-bash
-Copy
-Edit
-streamlit run app.py
 
 
